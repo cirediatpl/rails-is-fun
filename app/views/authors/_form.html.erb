@@ -1,0 +1,5 @@
+<%= form_for( @author , remote: true) do |f| %>
+<p>Name <%= f.text_field :name %></p>
+<p>Birth year <%= f.text_field :birth_year %></p>
+<%= f.submit %>
+<% end %>

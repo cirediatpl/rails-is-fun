@@ -1,0 +1,1 @@
+Recreate https://rails-is-fun.herokuapp.com/ 
